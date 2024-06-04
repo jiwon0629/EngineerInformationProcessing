@@ -1,0 +1,37 @@
+용어 정리
+
+관계
+Association : 연관
+Aggregation : 집합
+Composition : 포함
+Generalization : 일반화
+Dependency : 의존
+Realization : 실체화
+
+결합도
+External : 외부
+Common : 공통
+Content : 내용
+
+테스트
+Regression : 회귀
+
+화이트박스
+Base Path Testing : 기초 경로 검사
+Control Structure Testing : 제어 구조 검사
+
+블랙박스
+Equivalence Partitioning Testing : 동치 분할 검사
+Boundary Value Analysis : 경계값 분석
+Cause-Effect Graphing Testing : 원인-효과 그래프 검사
+Error Guessing : 오류 예측 검사
+Comparison Testing : 비교 검사
+
+헝가리안 표기법 : 변수 선언 시 변수명에 데이터 타입을 명시하는 것
+
+
+
+
+
+
+
