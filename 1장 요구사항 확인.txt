@@ -14,4 +14,11 @@
 애자일 모형(Agile Model)
  - 좋은 것을 빠르고 낭비 없게 만들기 위해 고객과의 소통에 초점을 맞춘 방법론
 
-스크럼
+[XP(eXtreme Programming)]
+
+Refactoring : 프로그램 기능의 변경 없이, 단순화, 유연성 강화 등을 통해 시스템을 재구성합니다.
+
+[요구사항의 유형]
+
+기능 요구사항(Functional requirements) : 시스템이 무엇을 하는지, 어떤 기능을 하는지에 대한 사항
+비기능 요구사항(Non - functional requirements) : 품질이나 제약사향과 관련이 있다
