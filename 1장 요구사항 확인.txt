@@ -1,7 +1,7 @@
 1장 요구사항 확인
 
 [소프트웨어 생명 주기]
-<hr>
+
 폭포수 모형(Waterfall Model)
  - 소프트웨어 개발 과정의 한 단계가 끝나지만 다음 단계로 넘어갈 수 있는 선형 순차적 모형이다
 
@@ -21,4 +21,4 @@ Refactoring : 프로그램 기능의 변경 없이, 단순화, 유연성 강화 
 [요구사항의 유형]
 
 기능 요구사항(Functional requirements) : 시스템이 무엇을 하는지, 어떤 기능을 하는지에 대한 사항
-비기능 요구사항(Non - functional requirements) : 품질이나 제약사향과 관련이 있다
+비기능 요구사항(Non - functional requirements) : 품질이나 제약사향과 관련이 있다.
