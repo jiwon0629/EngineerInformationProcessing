@@ -182,41 +182,4 @@ RPC(Remote Procedure Call) : 응용 프로그램의 프로시저를 사용하여
 MOM(Message Oriented Middleware) : 메시지 기반의 비동기형 메시지를 전달하는 방식의 미들웨어이다.
 TP-Monitor(Transaction Processing Monitor) : 항공기나 철도 예약 업무 등과 같은 온라인 트랜잭션 업무에서 트랜잭션을 처리 및 감시하는 미들웨어이다.
 ORB(Object Request Broker) :  객체 지향 미들웨어로 코바(CORBA) 표준 스펙을 구현한 미들웨어이다.
-WAS(Web Application Server) : 정적인 콘텐츠를 처리하는 웹 서버와 달리 사용자의 요구에 따라 변하는 동적인 콘텐츠를 처리하기 위해 사용되는 미들웨어이다.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+WAS(Web Application Server) : 정적인 콘텐츠를 처리하는 웹 서버와 달리 사용자의 요구에 따라 변하는 동적인 콘텐츠를 처리하기 위해 사용되는 미들웨어이다.ㄴ
