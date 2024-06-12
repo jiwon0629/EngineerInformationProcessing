@@ -135,6 +135,16 @@ Join
 - Join의 결과로 만들어진 릴레이션의 차수는 조인된 두 릴레이션의 차수를 합한 것과 같다.
 - Join의 결과는 Cartesian Product(교차곱)fmf 수행한 다음 Select를 수행한 것과 같다.
 
+일반 집합 연산자
+- 합집합(UNION) : 두 릴레이션에 존재하는 튜플의 합집합을 구하되, 결과로 생성된 릴레이션에서 중복되는 튜플은 제거되는 연산이다.
+- 교집합(INTERSECTION) : 두 릴레이션에 존재하는 튜플의 교집합을 구하는 연산이다.
+- 차집합(DIFFERENCE) : 두 릴레이션에 존재하는 튜플의 차집합을 구하는 연산이다.
+- 교차곱(CARTESIAN PRODUCT) : 두 릴레이션에 있는 튜플들의 순서쌍을 구하는 연산이다.
+
+관계해석(Relational Calculus)
+관계 데이터 모델의 제안자인 코드(E, F, Codd)가 수학의 Predicate Calculus(술어 해석)에 기반을 두고 관계 데이터베이스를 위해 제안했다.
+
+[정규화(Normalization)]
 
 
 
