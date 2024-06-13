@@ -194,6 +194,24 @@ OSI참조 모델에서의 데이터 단위
   - TCP, UDP 등의 표준이 있다.
   - 관련 장비 : 게이트웨이
 
+세션 계층(Session Layer) : 송수신 측 간의 관련성을 유지하고 대화 제어를 담당한다.
+
+표현 계층(Presentation Layer) : 응용 계층으로부터 받은 데이터를 세션 계층에 보내기 전에 통신에 적당한 형태로 변환하고, 세션 계층에서 받은 데이터는 응용 계층에 맞게 변환하는 기능을 한다.
+
+응용 계층(Application Layer) : 사용자(응용 프로그램)가 OSI 환경에 접근할 수 있도록 서비스를 제공한다.
+
+[TCP/IP]
+
+응용 계층의 주요 프로토콜
+MQTT(Message Queuing Telemetry Transport) : 발행-구독 기반의 메시징 프로토콜로, IoT 환경에서 자주 사용된다.
+
+전송 계층의 주요 프로토콜
+TCP(Transmission Control Protocol)
+- 양방향 연결(Full Duplex Connection)형 서비스를 제공한다.
+- 가상 회선 연결(Virtual Circuit Connection) 형태의 서비스를 제공한다.
+- 순서 제어, 오류 제어, 흐름 제어 기능을 한다.
+- 
+
 
 
 
