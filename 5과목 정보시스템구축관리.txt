@@ -108,7 +108,10 @@ DB 관련 신기술
 - 맵리듀스(MapReduce) : 대용량 데이터를 분산 처리하기 위한 목적, 데이터를 연관성 있는 데이터 분류로 묶는 Map 작업을 수행한 후 중복 데이터를 제거하고 원하는 데이터를 추출하는 Reduce 작업을 수행함
 - 타조(Tajo) : 오픈 소스 기반 분산 컴퓨팅 플랫폼인 아파치 하둡(Apache Hadoop) 기반의 분산 데이터 웨어하우스 프로젝트
 - 데이터 마이닝(Data Minig) : 대량의 데이터를 분석하여 데이터 속에 대재되어 있는 변수 사이의 상호관계를 규명하여 패턴화함으로써 효율적인 데이터 추출이 가능함
-- 
+- OLAP(Online Anayltical Processiong) : 다차원으로 이루어진 데이터로부터 통계적인 요약 정보를 분석하여 의사결정에 활용하는 방식
+  - OLAP 연산 : Roll-up, Drill-down, Drill-through, Drill-across, Pivoting, Slicing, Dicing
+
+회복
 
 
 
