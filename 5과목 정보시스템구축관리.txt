@@ -43,6 +43,22 @@ PERT(Program Evaluation and Review Technique, 프로그램 평가 및 검토 기
 간트 차트는 시간선(Time-Line) 차트라고도 한다.
 수평 막대의 길이는 각 작업(Task)의 기간을 나타낸다.
 
+ISO/IEC 12207
+ISO(International Organization for Standardization, 국제표준화기구)에서 만든 표준 소프트웨어 생명 주기 프로세스
+소프트웨어의 개발, 운영, 유지보수 등을 체계적으로 관리하기 위한 소프트웨어 생명 주기 표준을 제공한다.
+
+CMMI(Capability Maturity Model Integration)
+CMMI(능력 성숙도 통합 모델)는 소프트웨어 개발 조직의 업무 능력 및 조직의 성숙도를 평가하는 모델
+
+SPICE(Software Process Improvement and Capability dEtermination)
+SPICE(소프트웨어 처리 개선 및 능력 평가 기준)는 정보 시스템 분야에서 소프트웨어의 품질 및 생산성 향상을 위해 소프트웨어 프로세스를 평가 및 개선하는 국제 표준으로, 공식 명칭은 ISO/IEC 15504이다.
+- 불완전(Incomplete)(Level 0) : 프로세스가 구현되지 않았거나 목적을 달성하지 못한 단계
+- 수행(Performed)(Level 1) : 프로세스가 수행되고 목적이 달성된 단계
+- 관리(Managed)(Level 2) : 정의된 자원의 한도 내에서 그 프로세스가 작업 산출물을 인도하는 단계
+- 확립(Established)(Level 3) : 소프트웨어 공학 원칙에 기반하여 정의된 프로세스가 수행되는 단계
+- 예측(Predictable)(Level 4) : 프로세스가 목적 달성을 위해 통제되고, 양적인 측정을 통해서 일관되게 수행하는 단계
+- 최적화(Optimizing)(Level 5) : 프로세스 수행을 최적화하고, 지속적인 개선을 통해 업무 목적을 만족시키는 단계
+
 
 
 
